@@ -11,5 +11,6 @@ tags:
 	- https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages
 - 同期
 	- `npx quartz sync`
-- todo その他確認すること
-	- githubに直接書き込んだ時にどんな挙動をするか
+	- 直接githubに書き込むのも基本問題なさそう
+		- git pull -> npx quartz syncしましょう
+		- いきなりnpx quartz syncすると強制pushみたいな挙動になりそう
