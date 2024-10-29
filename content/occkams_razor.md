@@ -10,4 +10,3 @@ tags: [格言的なやつ,]
 
 ### Reference
 - [オッカムの剃刀 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%82%AB%E3%83%A0%E3%81%AE%E5%89%83%E5%88%80)
-- 
