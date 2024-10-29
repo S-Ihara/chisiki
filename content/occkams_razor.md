@@ -1,7 +1,7 @@
 ---
 title: オッカムの剃刀
 draft: false
-tags: []
+tags: [格言的なやつ,]
 ---
 - Occam's razor, Ockham's razor
 - 「ある事柄を説明するためには、必要以上に多くを仮定するべきでない」という指針
