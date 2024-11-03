@@ -1,5 +1,6 @@
 ---
 title: Title
 draft: false
-tags: []
+tags: 
+aliases:
 ---
