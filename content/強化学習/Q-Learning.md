@@ -1,7 +1,8 @@
 ---
 title: Q-学習
 draft: false
-tags: 
+tags:
+  - 強化学習
 aliases:
   - Q-学習
   - Q学習
