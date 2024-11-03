@@ -1,6 +1,7 @@
 ---
 title: tabをspaceに変えたい
 draft: false
-tags: [vscode,]
+tags:
+  - vscode
 ---
 - ctrl + shift + p -> Convert Indentation to spaces
