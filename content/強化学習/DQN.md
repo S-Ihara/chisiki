@@ -8,7 +8,6 @@ aliases:
   - 深層Q学習
   - Deep Q Network
 ---
-
 - [[Q-Learning|Q-学習]]をNNを使って行う手法
 	- 行動価値関数をNNによってモデル化
 
