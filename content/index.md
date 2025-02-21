@@ -8,13 +8,13 @@ tags:
 ### how to use メモ
 ※俺のためのメモ
 - obsidianをgithub pagesとquartzでpublishしている
-	- https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages
+    - https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages
 - 同期
-	- `npx quartz sync`
-	- 直接githubに書き込むのも基本問題なさそう
-		- git pull -> npx quartz syncしましょう
-		- いきなりnpx quartz syncすると強制pushみたいな挙動になりそう
+    - `npx quartz sync`
+    - 直接githubに書き込むのも基本問題なさそう
+        - git pull -> npx quartz syncしましょう
+        - いきなりnpx quartz syncすると強制pushみたいな挙動になりそう
 - ファイル構成か得たりしたらどうなるでしょうか
-	- とりあえずファイル書いといて後でフォルダにまとめたときの挙動がどうなるか
-	- リンク周りが特に大丈夫が気になる
-		- obsidian使ってよしなにまとめることはできるかも？
+    - とりあえずファイル書いといて後でフォルダにまとめたときの挙動がどうなるか
+    - リンク周りが特に大丈夫が気になる
+        - obsidian使ってよしなにまとめることはできるかも？
