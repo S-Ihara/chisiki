@@ -3,7 +3,7 @@ title: Deep Q-Network
 draft: false
 tags:
   - 強化学習
-  - Deep_Learning
+  - DeepLearning
 aliases:
   - 深層Q学習
   - Deep Q Network
