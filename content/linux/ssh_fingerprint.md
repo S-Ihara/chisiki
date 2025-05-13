@@ -1,6 +1,6 @@
 ---
 title: SSH鍵のフィンガープリントの確認方法
-draft: true
+draft: false
 tags: [linux, ssh]
 aliases:
 ---
