@@ -3,6 +3,7 @@ title: docker tips
 draft: false
 tags:
   - linux
+  - docker
 aliases:
 ---
 - docker container 全削除

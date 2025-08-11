@@ -1,7 +1,8 @@
 ---
 title: リモートブランチの削除
 draft: false
-tags: 
+tags:
+  - git
 aliases:
 ---
 ```bash

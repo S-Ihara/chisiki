@@ -1,7 +1,9 @@
 ---
 title: ssh鍵を作るときのやつ
 draft: false
-tags: linux
+tags:
+  - linux
+  - ssh
 aliases:
 ---
 - ssh_keygen

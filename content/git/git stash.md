@@ -1,7 +1,8 @@
 ---
 title: git stash
 draft: false
-tags: 
+tags:
+  - git
 aliases:
 ---
 - ブランチで作業中にほかのブランチをちょっと見たいとき、でもコミットはしたくないときに使える

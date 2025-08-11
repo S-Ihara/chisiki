@@ -1,7 +1,8 @@
 ---
 title: ディレクトリごとのディスク容量使用状況の確認
 draft: false
-tags: 
+tags:
+  - linux
 aliases:
 ---
 ```bash
