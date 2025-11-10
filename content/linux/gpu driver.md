@@ -20,6 +20,7 @@ aliases:
 sudo apt-get purge nvidia* 
 sudo apt-get purge cuda*
 ```
+- docker使っている人はnvidia-docker2とかnvidia-container-toolkitも一緒に消えるの注意
 
 ### driver install
 - aptで入れるときはリポジトリを追加する必要がある

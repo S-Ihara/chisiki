@@ -2,9 +2,10 @@
 title: .gitディレクトリを表示
 draft: true
 tags: 
+  - vscode
 aliases:
 ---
 - SettingからFiles: Excludeに除外パターンがあるのでそこから**/.gitを削除する
-  - Defaultだと入っている
+    - Defaultだと入っている
 - ついでに__pycache__を除外パターンに入れておくと見やすくなる
-  - python使ってる人
+    - python使ってる人
