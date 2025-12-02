@@ -7,8 +7,8 @@ tags:
 aliases:
 ---
 - linuxでプロセスを確認するなどで使われるtopコマンドの拡張版
-- （メモ：ここに起動画面の画像を張り付ける）
-
+	- ![[Pasted image 20251203075250.png | 500]]
+	- 機能的には特別なことはないが単にUIがちょっとしゃれている
 ### install
 ```bash
 sudo apt install btop
